@@ -1,2 +1,2 @@
-# MUHAMMAD-HILMI-ISNAENI_2025_255150201111026
+# LABOX: A Sokoban Game
 Repository for Raion Battlepass 2025
