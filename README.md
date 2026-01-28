@@ -1,5 +1,5 @@
 # 📦 LABOX: A Sokoban Game
-<img width="835" height="295" alt="Image" src="https://github.com/user-attachments/assets/2690923b-a6d2-4e89-bcbf-66a25a72cfd0" /><br>
+<img width="668" height="236" alt="Image" src="https://github.com/user-attachments/assets/2690923b-a6d2-4e89-bcbf-66a25a72cfd0" /><br>
 Repository for Raion Battlepass 2026
 <hr>
 <h1>ℹ About Game</h1>
