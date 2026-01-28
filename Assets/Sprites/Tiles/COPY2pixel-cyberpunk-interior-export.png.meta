@@ -1,0 +1,3888 @@
+fileFormatVersion: 2
+guid: 0439115b9db220a448695cc7cdff5513
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6240743197356318623
+    second: COPY2pixel-cyberpunk-interior-export_0
+  - first:
+      213: 7436216015495081330
+    second: COPY2pixel-cyberpunk-interior-export_1
+  - first:
+      213: -2140363733955256963
+    second: COPY2pixel-cyberpunk-interior-export_2
+  - first:
+      213: -3502401097683593018
+    second: COPY2pixel-cyberpunk-interior-export_3
+  - first:
+      213: -5061480383730837490
+    second: COPY2pixel-cyberpunk-interior-export_4
+  - first:
+      213: -8336334023692225049
+    second: COPY2pixel-cyberpunk-interior-export_5
+  - first:
+      213: -8220957950098449682
+    second: COPY2pixel-cyberpunk-interior-export_6
+  - first:
+      213: 5032086890228511419
+    second: COPY2pixel-cyberpunk-interior-export_7
+  - first:
+      213: 7922866838757443560
+    second: COPY2pixel-cyberpunk-interior-export_8
+  - first:
+      213: -79032999082097144
+    second: COPY2pixel-cyberpunk-interior-export_9
+  - first:
+      213: -50021415204961486
+    second: COPY2pixel-cyberpunk-interior-export_10
+  - first:
+      213: -7348239709320713022
+    second: COPY2pixel-cyberpunk-interior-export_11
+  - first:
+      213: 7832836520468186967
+    second: COPY2pixel-cyberpunk-interior-export_12
+  - first:
+      213: -5766855619805855389
+    second: COPY2pixel-cyberpunk-interior-export_13
+  - first:
+      213: 8957409397063144471
+    second: COPY2pixel-cyberpunk-interior-export_14
+  - first:
+      213: 5317163604133850195
+    second: COPY2pixel-cyberpunk-interior-export_15
+  - first:
+      213: 2082618866177082082
+    second: COPY2pixel-cyberpunk-interior-export_16
+  - first:
+      213: -5343904101993150310
+    second: COPY2pixel-cyberpunk-interior-export_17
+  - first:
+      213: 4738669032939060290
+    second: COPY2pixel-cyberpunk-interior-export_18
+  - first:
+      213: 3442403019520435282
+    second: COPY2pixel-cyberpunk-interior-export_19
+  - first:
+      213: 8170038616442854999
+    second: COPY2pixel-cyberpunk-interior-export_20
+  - first:
+      213: 3634775069283472760
+    second: COPY2pixel-cyberpunk-interior-export_21
+  - first:
+      213: 4435136441554108274
+    second: COPY2pixel-cyberpunk-interior-export_22
+  - first:
+      213: 7035407768332860872
+    second: COPY2pixel-cyberpunk-interior-export_23
+  - first:
+      213: 3816315230694489960
+    second: COPY2pixel-cyberpunk-interior-export_24
+  - first:
+      213: 157374433652555417
+    second: COPY2pixel-cyberpunk-interior-export_25
+  - first:
+      213: -9143910578008428217
+    second: COPY2pixel-cyberpunk-interior-export_26
+  - first:
+      213: -8372762890192779056
+    second: COPY2pixel-cyberpunk-interior-export_27
+  - first:
+      213: 4543156008976372447
+    second: COPY2pixel-cyberpunk-interior-export_28
+  - first:
+      213: 880724299261851693
+    second: COPY2pixel-cyberpunk-interior-export_29
+  - first:
+      213: -8832901135771425235
+    second: COPY2pixel-cyberpunk-interior-export_30
+  - first:
+      213: -4813806459212174827
+    second: COPY2pixel-cyberpunk-interior-export_31
+  - first:
+      213: -3740989646402811850
+    second: COPY2pixel-cyberpunk-interior-export_32
+  - first:
+      213: -8721723975620037460
+    second: COPY2pixel-cyberpunk-interior-export_33
+  - first:
+      213: 9036769001098444474
+    second: COPY2pixel-cyberpunk-interior-export_34
+  - first:
+      213: -5455817031402494558
+    second: COPY2pixel-cyberpunk-interior-export_35
+  - first:
+      213: -4171142499955222271
+    second: COPY2pixel-cyberpunk-interior-export_36
+  - first:
+      213: -5816949702445987735
+    second: COPY2pixel-cyberpunk-interior-export_37
+  - first:
+      213: -6739410385794598024
+    second: COPY2pixel-cyberpunk-interior-export_38
+  - first:
+      213: -6889497186760988760
+    second: COPY2pixel-cyberpunk-interior-export_39
+  - first:
+      213: -5044182138888338536
+    second: COPY2pixel-cyberpunk-interior-export_40
+  - first:
+      213: -8887161006557148930
+    second: COPY2pixel-cyberpunk-interior-export_41
+  - first:
+      213: 5394970592360118601
+    second: COPY2pixel-cyberpunk-interior-export_42
+  - first:
+      213: -2289817918952439566
+    second: COPY2pixel-cyberpunk-interior-export_43
+  - first:
+      213: 7201278893745904992
+    second: COPY2pixel-cyberpunk-interior-export_44
+  - first:
+      213: -1146101635050764632
+    second: COPY2pixel-cyberpunk-interior-export_45
+  - first:
+      213: -8786852949657040855
+    second: COPY2pixel-cyberpunk-interior-export_46
+  - first:
+      213: -5479836642554695108
+    second: COPY2pixel-cyberpunk-interior-export_47
+  - first:
+      213: 7123136239865439509
+    second: COPY2pixel-cyberpunk-interior-export_48
+  - first:
+      213: -7733010959527586425
+    second: COPY2pixel-cyberpunk-interior-export_49
+  - first:
+      213: 8886998606010589302
+    second: COPY2pixel-cyberpunk-interior-export_50
+  - first:
+      213: -2762000118748426368
+    second: COPY2pixel-cyberpunk-interior-export_51
+  - first:
+      213: 9119816863582186447
+    second: COPY2pixel-cyberpunk-interior-export_52
+  - first:
+      213: -3659724080852523910
+    second: COPY2pixel-cyberpunk-interior-export_53
+  - first:
+      213: 5754152278012479466
+    second: COPY2pixel-cyberpunk-interior-export_54
+  - first:
+      213: 5729098727764437622
+    second: COPY2pixel-cyberpunk-interior-export_55
+  - first:
+      213: 3297390003315717648
+    second: COPY2pixel-cyberpunk-interior-export_56
+  - first:
+      213: 5451785545332649961
+    second: COPY2pixel-cyberpunk-interior-export_57
+  - first:
+      213: -2893883667737237263
+    second: COPY2pixel-cyberpunk-interior-export_58
+  - first:
+      213: 8787515341339705716
+    second: COPY2pixel-cyberpunk-interior-export_59
+  - first:
+      213: -8121184277242340318
+    second: COPY2pixel-cyberpunk-interior-export_60
+  - first:
+      213: -5502590573743601464
+    second: COPY2pixel-cyberpunk-interior-export_61
+  - first:
+      213: -5496756155121792680
+    second: COPY2pixel-cyberpunk-interior-export_62
+  - first:
+      213: -76194469330771700
+    second: COPY2pixel-cyberpunk-interior-export_63
+  - first:
+      213: 5704070533691745908
+    second: COPY2pixel-cyberpunk-interior-export_64
+  - first:
+      213: -8808290440719351500
+    second: COPY2pixel-cyberpunk-interior-export_65
+  - first:
+      213: 1110911144605792627
+    second: COPY2pixel-cyberpunk-interior-export_66
+  - first:
+      213: -2422575992948259721
+    second: COPY2pixel-cyberpunk-interior-export_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160242b702d6469a0800000000000000
+      internalID: -6240743197356318623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27da7ac311fb23760800000000000000
+      internalID: 7436216015495081330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd77b2686eb42e0800000000000000
+      internalID: -2140363733955256963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c891a712c8f46fc0800000000000000
+      internalID: -3502401097683593018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089d1a686202c9b0800000000000000
+      internalID: -5061480383730837490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e572dc8f546f4c80800000000000000
+      internalID: -8336334023692225049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea55f60d4a49ed80800000000000000
+      internalID: -8220957950098449682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb278f29d5095d540800000000000000
+      internalID: 5032086890228511419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e70cd6a96da3fd60800000000000000
+      internalID: 7922866838757443560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068d24f7e737eef0800000000000000
+      internalID: -79032999082097144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233cb83b9c94e4ff0800000000000000
+      internalID: -50021415204961486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cce481caeec50a90800000000000000
+      internalID: -7348239709320713022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578632b053d3bc60800000000000000
+      internalID: 7832836520468186967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361c18e2e5308ffa0800000000000000
+      internalID: -5766855619805855389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714d1b3636c1f4c70800000000000000
+      internalID: 8957409397063144471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca80d502c5ac940800000000000000
+      internalID: 5317163604133850195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2030913d2f6ec10800000000000000
+      internalID: 2082618866177082082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9802fe4883a6d5b0800000000000000
+      internalID: -5343904101993150310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cf970016223c140800000000000000
+      internalID: 4738669032939060290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546f30ce4fd5cf20800000000000000
+      internalID: 3442403019520435282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75edc4eb5dec16170800000000000000
+      internalID: 8170038616442854999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875561beaa0517230800000000000000
+      internalID: 3634775069283472760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ff8316815cc8d30800000000000000
+      internalID: 4435136441554108274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdf081171ac2a160800000000000000
+      internalID: 7035407768332860872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f357c8b7646f430800000000000000
+      internalID: 3816315230694489960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb69ea63b1f2200800000000000000
+      internalID: 157374433652555417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741fedb96cd4a1180800000000000000
+      internalID: -9143910578008428217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d88c7d1388fdcb80800000000000000
+      internalID: -8372762890192779056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2d73ac1588c0f30800000000000000
+      internalID: 4543156008976372447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28be8a7516f83c00800000000000000
+      internalID: 880724299261851693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26233a373b3b6580800000000000000
+      internalID: -8832901135771425235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6d2da78ce13db0800000000000000
+      internalID: -4813806459212174827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380fb9bcb5551cc0800000000000000
+      internalID: -3740989646402811850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4f82cf04636f680800000000000000
+      internalID: -8721723975620037460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abefbb3178d096d70800000000000000
+      internalID: 9036769001098444474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a56abbe05b0944b0800000000000000
+      internalID: -5455817031402494558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10952a6feff1d16c0800000000000000
+      internalID: -4171142499955222271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968846da01b064fa0800000000000000
+      internalID: -5816949702445987735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b722706fdc872a0800000000000000
+      internalID: -6739410385794598024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ee0e8fc69360a0800000000000000
+      internalID: -6889497186760988760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893c035e1177ff9b0800000000000000
+      internalID: -5044182138888338536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8457696267aa480800000000000000
+      internalID: -8887161006557148930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949bd438b29ceda40800000000000000
+      internalID: 5394970592360118601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f004841cbee830e0800000000000000
+      internalID: -2289817918952439566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d1e36fff410f360800000000000000
+      internalID: 7201278893745904992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a60e4e92aa3810f0800000000000000
+      internalID: -1146101635050764632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928491a0cc3de0680800000000000000
+      internalID: -8786852949657040855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32bb556b95b3f3b0800000000000000
+      internalID: -5479836642554695108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51524ef8ba67ad260800000000000000
+      internalID: 7123136239865439509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d729e083dea490800000000000000
+      internalID: -7733010959527586425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67027a69526f45b70800000000000000
+      internalID: 8886998606010589302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fc96496876ba9d0800000000000000
+      internalID: -2762000118748426368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbee6a5e19109e70800000000000000
+      internalID: 9119816863582186447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74a7d8a65c063dc0800000000000000
+      internalID: -3659724080852523910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74072920bdadf40800000000000000
+      internalID: 5754152278012479466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_55
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aaa8750f8d18f40800000000000000
+      internalID: 5729098727764437622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016be89dcbea2cd20800000000000000
+      internalID: 3297390003315717648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef69259112a8ab40800000000000000
+      internalID: 5451785545332649961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a73bf22cd6d7d0800000000000000
+      internalID: -2893883667737237263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47149da05a683f970800000000000000
+      internalID: 8787515341339705716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c9b7f7de1cb4f80800000000000000
+      internalID: -8121184277242340318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c88993f60fd2a3b0800000000000000
+      internalID: -5502590573743601464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8590605666997b3b0800000000000000
+      internalID: -5496756155121792680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01a0b9a88d41fef0800000000000000
+      internalID: -76194469330771700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476287ecdede82f40800000000000000
+      internalID: 5704070533691745908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4314472338aa2c580800000000000000
+      internalID: -8808290440719351500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3793047dccfba6f00800000000000000
+      internalID: 1110911144605792627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7740ee248f7416ed0800000000000000
+      internalID: -2422575992948259721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f392797931324482bdcf494df3c79
+      internalID: -1517989968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee31fd0f1a8274abb13c61e5a5099d
+      internalID: -408203066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_70
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096b09f65e590b489bbc750b1826170
+      internalID: 1445141257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_71
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98c32aa2fd9e74881bbbcf8e297ace
+      internalID: -891567672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90710bcc33fa6946836879ba33a9cba
+      internalID: -468527906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c0fd10d763154b9a1bd63f79b1b9f
+      internalID: -374183395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d602083b4c2b0c4e8b40cca4323d428
+      internalID: -736551001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12831579a2c334db1850094c3a9678
+      internalID: 710625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26656aa789b3ed4c9728000d6b3ba3a
+      internalID: -460090647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37535f3905fc6d3428187ff46b1494e2
+      internalID: 438723763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad618aaea5629044eaecb9167af0e9a6
+      internalID: 289849321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26377ec74b4024449af2d4d856556abb
+      internalID: -914665162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837ad08b801f3143848eb0d8c8bc81b
+      internalID: -1675361728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173685807d60fcb4284aef3a7f3664a2
+      internalID: -869033705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b924af4a6bcab4fac4ce208499acbc
+      internalID: 520868838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_83
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6147ff54eba2d649a98f52d7dc52300
+      internalID: 1831220816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d3c5a5e5d3074fae550e0cf428131
+      internalID: 4766613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5713c830029549bde10cecca9c589
+      internalID: -1291293352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4455ded51adc244b4ce1e715721d46
+      internalID: -1738147200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66635ef253fe7c4ca1bf39a0bf1e958
+      internalID: 965922413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2726d778300d44f80acc5a68437e1c
+      internalID: -416805624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f61a2c04fb64e4c8223ebc78231d91
+      internalID: -65746225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c5a97709826e94e9a07cf9dfff31ee
+      internalID: 565279377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c912f12faea114190b999e41782e5d
+      internalID: -1771120068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1350de87a807b4bb2ab6ee4158b14d
+      internalID: -2127616738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597eb313a63e5024e94ee718a65c5b1c
+      internalID: 74322759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad5121a44833e34f93afaf442197597
+      internalID: -788568765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151c6ace9cab4694997ca677979e726b
+      internalID: 1201778368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_96
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7b935cce815754da2241f4c64fd48c
+      internalID: 481999478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd1b23647bb1c408359d1350c1eb63
+      internalID: -554575310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_98
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac35dd58bc8c0948b7bf8de6a5b3b14
+      internalID: -1087048050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29582421dedf58c4082b74f2975162a5
+      internalID: -133357082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471752cc4fffc1e4d83947cc4545b9eb
+      internalID: -45421459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b665289d8c4dab429385a4d86045962
+      internalID: -7231181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e67f86f7e6e9b74db57b4c09c1c859a
+      internalID: -828795554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605be083bc2877a4db9d95e8c3857db3
+      internalID: -844094992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faaca5a49029d946849e9f80ef38c43
+      internalID: -1627203941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc171ec559e194680dd173224399cc
+      internalID: 1720832284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa57f40eb98fc04e9d120143404a428
+      internalID: -135462409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_107
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1bb5ae180b36649a5dc8bc8623db43
+      internalID: -671912122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8bfeddc1a9b08449380c7db357285a
+      internalID: 1123132906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec86b3171d9fee4680eb03be25fbb77
+      internalID: -536748123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab185f434043e6b4ea59f3b018ca24fa
+      internalID: -109625711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1513d7ad93aa7ab40b2b557cb79f0f23
+      internalID: -1749642001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e212931b6d4f4e86f898a3d24817b
+      internalID: 329337626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5febadbd6934a9b4da309660f8cb1b88
+      internalID: 1824147601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0ae2c863036af468810d11cda2fa11
+      internalID: 1975814030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583b946394d5f148adcb9b05e47b182
+      internalID: -1512681342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a313489d70fe9419fbe8fc62490b40
+      internalID: -645228288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d764b9a5891ab424ebf54ec6de2f6b0c
+      internalID: -453713478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80241ef101fdc91428d00eb7f1a0243d
+      internalID: 1929335501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db83dd0940f9e428b611eb44bed7c4
+      internalID: -926591560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_120
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfbb8593a369ec4d8c2ae914bd24815
+      internalID: -563580655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed9b6401a9fec340a50b7bfdec5535c
+      internalID: -238111585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5c3c01074b5b4e9f9d67c5f8e265f
+      internalID: -1595444181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_123
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebe49698421d1642a9591d1d9b3d16e
+      internalID: 1854727042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_124
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8937424c4e0e44aa520625c25a948
+      internalID: -446793992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3acc1101dc594e97817289c3f917b
+      internalID: -457321227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_126
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca9a780cf812954d87a35a2bcf38b08
+      internalID: -312502105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c2ccd683b48644e9dd539fd2d18207
+      internalID: -1937669099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d6c04dc6e1ce40a2fcbcfd5375a1e
+      internalID: 1338158752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a63761cbf7a04fac448dc2c38c4d0
+      internalID: -908567730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294355eef9d39d549a92c6a7740929df
+      internalID: -1599754433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc28430205c99094db21b069a422698d
+      internalID: 320382664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39d9cbd36d11142a262f11ba8c4ff8
+      internalID: -2072879822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c41d1088020c74db35dcc50b6150d2
+      internalID: 1307909123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cefb25940f11f4099fa0cbe6081abb
+      internalID: -1803735341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_135
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab91438b8fc4f42b6bedfc1429cb45
+      internalID: 315840101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e72d5bfdd26945a7148d1e9df8ee2
+      internalID: -1559115188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_137
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4188870deb4754d9f7b06f40a25ad7
+      internalID: 1475959268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_138
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d39b7061981ed14ab8942508276156e
+      internalID: 1242066830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c2462edbe85c4d9f3e83e7bbb815d
+      internalID: -185114930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be31924d33d772498c7144c957fe30a
+      internalID: 763309814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd54f1ba1186924f99303b7b01adcdb
+      internalID: 1151152945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652d7233d70fb44e9f4d3cd593238ab
+      internalID: -983676518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd9b56bf297314aa4e8cd2e22ce8a7
+      internalID: -690296109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_144
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c471b238a1ca1445acf44a48436f6f0
+      internalID: 1306249835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae88ab5efd56dab4783fa2ceddbf379b
+      internalID: -1546503333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_146
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f12461fab84a84e8846beb6f0c9b8d
+      internalID: -1287292140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379b80e63b5a4c47b46ba456ff1b878
+      internalID: -1483953784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b734be129a4d824485c4b46483855ba
+      internalID: -324442141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c91cadb0d7a1f4492fc4e269ba3122
+      internalID: -1199095510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79372c1180900524e80883e029918fd1
+      internalID: 1268442151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bfd98d86ffa454eb165a150b8202a2
+      internalID: 1368422069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617e41e63d9b7246abe0f0e2cc8c36d
+      internalID: 982194799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ec883b2d36c54f939863f1cbad9fb
+      internalID: -2053118332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COPY2pixel-cyberpunk-interior-export_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64caaf4f08b7240a640d346d90a260
+      internalID: -517137400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aac0fae2f88a23f4aa32d21ba40b5c8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      COPY2pixel-cyberpunk-interior-export_0: -6240743197356318623
+      COPY2pixel-cyberpunk-interior-export_1: 7436216015495081330
+      COPY2pixel-cyberpunk-interior-export_10: -50021415204961486
+      COPY2pixel-cyberpunk-interior-export_100: -45421459
+      COPY2pixel-cyberpunk-interior-export_101: -7231181
+      COPY2pixel-cyberpunk-interior-export_102: -828795554
+      COPY2pixel-cyberpunk-interior-export_103: -844094992
+      COPY2pixel-cyberpunk-interior-export_104: -1627203941
+      COPY2pixel-cyberpunk-interior-export_105: 1720832284
+      COPY2pixel-cyberpunk-interior-export_106: -135462409
+      COPY2pixel-cyberpunk-interior-export_107: -671912122
+      COPY2pixel-cyberpunk-interior-export_108: 1123132906
+      COPY2pixel-cyberpunk-interior-export_109: -536748123
+      COPY2pixel-cyberpunk-interior-export_11: -7348239709320713022
+      COPY2pixel-cyberpunk-interior-export_110: -109625711
+      COPY2pixel-cyberpunk-interior-export_111: -1749642001
+      COPY2pixel-cyberpunk-interior-export_112: 329337626
+      COPY2pixel-cyberpunk-interior-export_113: 1824147601
+      COPY2pixel-cyberpunk-interior-export_114: 1975814030
+      COPY2pixel-cyberpunk-interior-export_115: -1512681342
+      COPY2pixel-cyberpunk-interior-export_116: -645228288
+      COPY2pixel-cyberpunk-interior-export_117: -453713478
+      COPY2pixel-cyberpunk-interior-export_118: 1929335501
+      COPY2pixel-cyberpunk-interior-export_119: -926591560
+      COPY2pixel-cyberpunk-interior-export_12: 7832836520468186967
+      COPY2pixel-cyberpunk-interior-export_120: -563580655
+      COPY2pixel-cyberpunk-interior-export_121: -238111585
+      COPY2pixel-cyberpunk-interior-export_122: -1595444181
+      COPY2pixel-cyberpunk-interior-export_123: 1854727042
+      COPY2pixel-cyberpunk-interior-export_124: -446793992
+      COPY2pixel-cyberpunk-interior-export_125: -457321227
+      COPY2pixel-cyberpunk-interior-export_126: -312502105
+      COPY2pixel-cyberpunk-interior-export_127: -1937669099
+      COPY2pixel-cyberpunk-interior-export_128: 1338158752
+      COPY2pixel-cyberpunk-interior-export_129: -908567730
+      COPY2pixel-cyberpunk-interior-export_13: -5766855619805855389
+      COPY2pixel-cyberpunk-interior-export_130: -1599754433
+      COPY2pixel-cyberpunk-interior-export_131: 320382664
+      COPY2pixel-cyberpunk-interior-export_132: -2072879822
+      COPY2pixel-cyberpunk-interior-export_133: 1307909123
+      COPY2pixel-cyberpunk-interior-export_134: -1803735341
+      COPY2pixel-cyberpunk-interior-export_135: 315840101
+      COPY2pixel-cyberpunk-interior-export_136: -1559115188
+      COPY2pixel-cyberpunk-interior-export_137: 1475959268
+      COPY2pixel-cyberpunk-interior-export_138: 1242066830
+      COPY2pixel-cyberpunk-interior-export_139: -185114930
+      COPY2pixel-cyberpunk-interior-export_14: 8957409397063144471
+      COPY2pixel-cyberpunk-interior-export_140: 763309814
+      COPY2pixel-cyberpunk-interior-export_141: 1151152945
+      COPY2pixel-cyberpunk-interior-export_142: -983676518
+      COPY2pixel-cyberpunk-interior-export_143: -690296109
+      COPY2pixel-cyberpunk-interior-export_144: 1306249835
+      COPY2pixel-cyberpunk-interior-export_145: -1546503333
+      COPY2pixel-cyberpunk-interior-export_146: -1287292140
+      COPY2pixel-cyberpunk-interior-export_147: -1483953784
+      COPY2pixel-cyberpunk-interior-export_148: -324442141
+      COPY2pixel-cyberpunk-interior-export_149: -1199095510
+      COPY2pixel-cyberpunk-interior-export_15: 5317163604133850195
+      COPY2pixel-cyberpunk-interior-export_150: 1268442151
+      COPY2pixel-cyberpunk-interior-export_151: 1368422069
+      COPY2pixel-cyberpunk-interior-export_152: 982194799
+      COPY2pixel-cyberpunk-interior-export_153: -2053118332
+      COPY2pixel-cyberpunk-interior-export_154: -517137400
+      COPY2pixel-cyberpunk-interior-export_16: 2082618866177082082
+      COPY2pixel-cyberpunk-interior-export_17: -5343904101993150310
+      COPY2pixel-cyberpunk-interior-export_18: 4738669032939060290
+      COPY2pixel-cyberpunk-interior-export_19: 3442403019520435282
+      COPY2pixel-cyberpunk-interior-export_2: -2140363733955256963
+      COPY2pixel-cyberpunk-interior-export_20: 8170038616442854999
+      COPY2pixel-cyberpunk-interior-export_21: 3634775069283472760
+      COPY2pixel-cyberpunk-interior-export_22: 4435136441554108274
+      COPY2pixel-cyberpunk-interior-export_23: 7035407768332860872
+      COPY2pixel-cyberpunk-interior-export_24: 3816315230694489960
+      COPY2pixel-cyberpunk-interior-export_25: 157374433652555417
+      COPY2pixel-cyberpunk-interior-export_26: -9143910578008428217
+      COPY2pixel-cyberpunk-interior-export_27: -8372762890192779056
+      COPY2pixel-cyberpunk-interior-export_28: 4543156008976372447
+      COPY2pixel-cyberpunk-interior-export_29: 880724299261851693
+      COPY2pixel-cyberpunk-interior-export_3: -3502401097683593018
+      COPY2pixel-cyberpunk-interior-export_30: -8832901135771425235
+      COPY2pixel-cyberpunk-interior-export_31: -4813806459212174827
+      COPY2pixel-cyberpunk-interior-export_32: -3740989646402811850
+      COPY2pixel-cyberpunk-interior-export_33: -8721723975620037460
+      COPY2pixel-cyberpunk-interior-export_34: 9036769001098444474
+      COPY2pixel-cyberpunk-interior-export_35: -5455817031402494558
+      COPY2pixel-cyberpunk-interior-export_36: -4171142499955222271
+      COPY2pixel-cyberpunk-interior-export_37: -5816949702445987735
+      COPY2pixel-cyberpunk-interior-export_38: -6739410385794598024
+      COPY2pixel-cyberpunk-interior-export_39: -6889497186760988760
+      COPY2pixel-cyberpunk-interior-export_4: -5061480383730837490
+      COPY2pixel-cyberpunk-interior-export_40: -5044182138888338536
+      COPY2pixel-cyberpunk-interior-export_41: -8887161006557148930
+      COPY2pixel-cyberpunk-interior-export_42: 5394970592360118601
+      COPY2pixel-cyberpunk-interior-export_43: -2289817918952439566
+      COPY2pixel-cyberpunk-interior-export_44: 7201278893745904992
+      COPY2pixel-cyberpunk-interior-export_45: -1146101635050764632
+      COPY2pixel-cyberpunk-interior-export_46: -8786852949657040855
+      COPY2pixel-cyberpunk-interior-export_47: -5479836642554695108
+      COPY2pixel-cyberpunk-interior-export_48: 7123136239865439509
+      COPY2pixel-cyberpunk-interior-export_49: -7733010959527586425
+      COPY2pixel-cyberpunk-interior-export_5: -8336334023692225049
+      COPY2pixel-cyberpunk-interior-export_50: 8886998606010589302
+      COPY2pixel-cyberpunk-interior-export_51: -2762000118748426368
+      COPY2pixel-cyberpunk-interior-export_52: 9119816863582186447
+      COPY2pixel-cyberpunk-interior-export_53: -3659724080852523910
+      COPY2pixel-cyberpunk-interior-export_54: 5754152278012479466
+      COPY2pixel-cyberpunk-interior-export_55: 5729098727764437622
+      COPY2pixel-cyberpunk-interior-export_56: 3297390003315717648
+      COPY2pixel-cyberpunk-interior-export_57: 5451785545332649961
+      COPY2pixel-cyberpunk-interior-export_58: -2893883667737237263
+      COPY2pixel-cyberpunk-interior-export_59: 8787515341339705716
+      COPY2pixel-cyberpunk-interior-export_6: -8220957950098449682
+      COPY2pixel-cyberpunk-interior-export_60: -8121184277242340318
+      COPY2pixel-cyberpunk-interior-export_61: -5502590573743601464
+      COPY2pixel-cyberpunk-interior-export_62: -5496756155121792680
+      COPY2pixel-cyberpunk-interior-export_63: -76194469330771700
+      COPY2pixel-cyberpunk-interior-export_64: 5704070533691745908
+      COPY2pixel-cyberpunk-interior-export_65: -8808290440719351500
+      COPY2pixel-cyberpunk-interior-export_66: 1110911144605792627
+      COPY2pixel-cyberpunk-interior-export_67: -2422575992948259721
+      COPY2pixel-cyberpunk-interior-export_68: -1517989968
+      COPY2pixel-cyberpunk-interior-export_69: -408203066
+      COPY2pixel-cyberpunk-interior-export_7: 5032086890228511419
+      COPY2pixel-cyberpunk-interior-export_70: 1445141257
+      COPY2pixel-cyberpunk-interior-export_71: -891567672
+      COPY2pixel-cyberpunk-interior-export_72: -468527906
+      COPY2pixel-cyberpunk-interior-export_73: -374183395
+      COPY2pixel-cyberpunk-interior-export_74: -736551001
+      COPY2pixel-cyberpunk-interior-export_75: 710625211
+      COPY2pixel-cyberpunk-interior-export_76: -460090647
+      COPY2pixel-cyberpunk-interior-export_77: 438723763
+      COPY2pixel-cyberpunk-interior-export_78: 289849321
+      COPY2pixel-cyberpunk-interior-export_79: -914665162
+      COPY2pixel-cyberpunk-interior-export_8: 7922866838757443560
+      COPY2pixel-cyberpunk-interior-export_80: -1675361728
+      COPY2pixel-cyberpunk-interior-export_81: -869033705
+      COPY2pixel-cyberpunk-interior-export_82: 520868838
+      COPY2pixel-cyberpunk-interior-export_83: 1831220816
+      COPY2pixel-cyberpunk-interior-export_84: 4766613
+      COPY2pixel-cyberpunk-interior-export_85: -1291293352
+      COPY2pixel-cyberpunk-interior-export_86: -1738147200
+      COPY2pixel-cyberpunk-interior-export_87: 965922413
+      COPY2pixel-cyberpunk-interior-export_88: -416805624
+      COPY2pixel-cyberpunk-interior-export_89: -65746225
+      COPY2pixel-cyberpunk-interior-export_9: -79032999082097144
+      COPY2pixel-cyberpunk-interior-export_90: 565279377
+      COPY2pixel-cyberpunk-interior-export_91: -1771120068
+      COPY2pixel-cyberpunk-interior-export_92: -2127616738
+      COPY2pixel-cyberpunk-interior-export_93: 74322759
+      COPY2pixel-cyberpunk-interior-export_94: -788568765
+      COPY2pixel-cyberpunk-interior-export_95: 1201778368
+      COPY2pixel-cyberpunk-interior-export_96: 481999478
+      COPY2pixel-cyberpunk-interior-export_97: -554575310
+      COPY2pixel-cyberpunk-interior-export_98: -1087048050
+      COPY2pixel-cyberpunk-interior-export_99: -133357082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
